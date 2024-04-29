@@ -1,4 +1,4 @@
-### 안녕하세요 박영준의 깃허브에 오신 것을 환영합니다 👋
+### 안녕하세요 저의 깃허브에 오신 것을 환영합니다 👋
 
 <!--
 **YoungJun-Player/YoungJun-Player** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
