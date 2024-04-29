@@ -1,5 +1,8 @@
 ### 안녕하세요 저의 깃허브에 오신 것을 환영합니다 👋
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoungJun-Player&show_icons=true&hide_border=true" />
+
 <!--
 **YoungJun-Player/YoungJun-Player** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
