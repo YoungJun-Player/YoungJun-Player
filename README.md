@@ -1,11 +1,10 @@
 <div align="center">
 
 ### **Everything comes to him who hustles while he waits.** 👋
-<br> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJun-Player)
-
 
 안녕하세요 데이터사이언티스트가 되기 위한 공부를 하고 있습니다
 
+<br> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJun-Player)
 
 <div align="center">
   <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="50" /> 
