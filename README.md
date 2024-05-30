@@ -7,9 +7,8 @@
 <div align="right">
 <br> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJun-Player)
 
-<div align="center">
-
 -------------
+<div align="center">
   <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> 
     <img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="50" /> 
 
