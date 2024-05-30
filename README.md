@@ -6,7 +6,7 @@
 
 안녕하세요 데이터사이언티스트가 되기 위한 공부를 하고 있습니다
 
--------------
+
 <div align="center">
   <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="50" /> 
 
