@@ -14,8 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YoungJun-Player&show_icons=true&hide_border=true" />
 
 -------------
-## 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJun-Player&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **YoungJun-Player/YoungJun-Player** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
