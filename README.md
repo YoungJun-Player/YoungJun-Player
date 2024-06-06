@@ -4,6 +4,13 @@
 
 안녕하세요 데이터사이언티스트가 되기 위한 공부를 하고 있습니다
 
+<br>
+
+<div align="center">
+  <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> 
+    <img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="50" /> 
+
+<br>
 
 <br>
 
@@ -14,13 +21,9 @@
 
 <br>
 
-<div align="left">
-  <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> 
-    <img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="50" /> 
+<div align="center">
+📊 My GitHub Stats
 
-<br>
-
-<br>
-# 📊 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=YoungJun-Player&show_icons=true&hide_border=true" />
+
 <br>
