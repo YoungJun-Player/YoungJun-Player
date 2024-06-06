@@ -15,8 +15,7 @@
 <br>
 
 <div align="left">
-**My Portpolio 👉 **
-  <a href='?'><img alt="notion" src="https://github.com/bramilch/bramilch/blob/main/assets/Notion-logo.svg" height='20px'/></a>
+My Portpolio 👉   <a href='?'><img alt="notion" src="https://github.com/bramilch/bramilch/blob/main/assets/Notion-logo.svg" height='20px'/></a>
 
 <br>
 <br>
