@@ -6,18 +6,17 @@
 <br>
 <div align="left">
   
-### Introduce Myself 👇
-  <br>
-  <a href='?'><img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/><a href="https://velog.io/@youngjun_player/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/>
-    
-  <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="50" /><img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="20" /> 
-    <br>
+### Introduce Myself 👉 <a href='?'><img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+
+### My Techblog 👉 <a href="https://velog.io/@youngjun_player/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/>
+
+### My Playground 👉 <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="60" /><img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="30" /> 
 <br>
 
 --------------  
 <br>
 
-### My Potpolio 👇
+### My Potpolio 👉
 
 <br>
 
