@@ -3,6 +3,8 @@
 ### **Everything comes to him who hustles while he waits.** 👋<br>    
 <br>안녕하세요 데이터사이언티스트가 되기 위한 공부를 하고 있습니다<br>
 
+![youngjunplayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJun-Player&show_icons=true&theme=radical)
+
 <br>
 <div align="left">
   
