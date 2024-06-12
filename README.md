@@ -1,7 +1,7 @@
 <div align="center">
 
 ### **Everything comes to him who hustles while he waits.** 👋<br>    
-<br>안녕하세요 데이터사이언티스트가 되기 위한 공부를 하고 있습니다<br>
+<br>안녕하세요 데이터분석가가 되기 위한 공부를 하고 있습니다<br>
 
 <br>
 <div align="left">
