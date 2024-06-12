@@ -42,10 +42,8 @@
 ### My Future Skills<br>
 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>, 
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>,
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">,
-  <img src="https://img.shields.io/badge/Keras-black?style=flat&logo=Keras&logoColor=darkred"/>,
   <img src="https://img.shields.io/badge/Tableau-black?style=flat&logo=Tableau&logoColor=#E97627"/>,
   <img src="https://img.shields.io/badge/Google Analytics 4-black?style=flat&logo=googleanalytics&logoColor=#E37400"/>,
   etc.
