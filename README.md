@@ -6,7 +6,7 @@
 <br>
 <div align="left">
   
-### Introduce Myself 👉 <a href='?'><img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+### Introduce Myself 👉 <a href='https://www.notion.so/Youngjun-Park-de3a4765bb6e4af7861662f65a585491'><img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 
 ### My Techblog 👉 <a href="https://velog.io/@youngjun_player/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/>
 
