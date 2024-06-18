@@ -16,7 +16,7 @@
 --------------  
 <br>
 
-### My Potpolio 👉
+### My Potpolio 👉 <a href='[https://www.notion.so/Youngjun-Park-de3a4765bb6e4af7861662f65a585491](https://github.com/YoungJun-Player/Portpolio_Project/blob/main/Portpolio.pdf)'>
 
 <br>
 
