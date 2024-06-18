@@ -16,7 +16,7 @@
 --------------  
 <br>
 
-### My Potpolio 👉 [HERE]([https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_EN.pdf](https://www.notion.so/Youngjun-Park-de3a4765bb6e4af7861662f65a585491](https://github.com/YoungJun-Player/Portpolio_Project/blob/main/Portpolio.pdf))
+### My Potpolio 👉 [HERE](https://github.com/YoungJun-Player/Portpolio_Project/blob/main/Portpolio.pdf)
 
 <br>
 
