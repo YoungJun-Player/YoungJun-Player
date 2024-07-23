@@ -16,7 +16,7 @@
 --------------  
 <br>
 
-### My Potpolio 👉 [HERE]([https://github.com/YoungJun-Player/Portpolio_Project/blob/main/Portpolio.pdf](https://github.com/YoungJun-Player/Investing_Predict/blob/main/%EC%A3%BC%EC%8B%9D%20%EA%B8%B0%EB%B3%B8%EC%A0%81%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%98%88%EC%B8%A1.pdf))
+### My Potpolio 👉 [HERE](https://github.com/YoungJun-Player/Investing_Predict/blob/main/%EC%A3%BC%EC%8B%9D%20%EA%B8%B0%EB%B3%B8%EC%A0%81%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%98%88%EC%B8%A1.pdf)
 
 <br>
 
