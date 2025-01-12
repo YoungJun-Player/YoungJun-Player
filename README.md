@@ -6,14 +6,8 @@
 <div align="left">
   
 ### Introduce Myself 👉 <a href='https://www.notion.so/Youngjun-Park-de3a4765bb6e4af7861662f65a585491'><img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-
-### My Playground 👉 <a href="https://www.kaggle.com/youngjunplayer"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="60" /><img src="https://www.kaggle.com/static/images/tiers/contributor@192.png" width="30" /> 
-<br>
-
 --------------  
 <br>
-
-### My Potpolio 👉 [HERE](https://github.com/YoungJun-Player/My_Project/blob/main/%EA%B0%9C%EC%9D%B8%20-%20%EB%82%98%EC%8A%A4%EB%8B%A5%20%EC%A3%BC%EC%8B%9D%20%EB%93%B1%EB%9D%BD%20%EC%97%AC%EB%B6%80%20%EC%98%88%EC%B8%A1/%EC%A3%BC%EC%8B%9D%20%EA%B8%B0%EB%B3%B8%EC%A0%81%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%98%88%EC%B8%A1.pdf)
 
 <br>
 
