@@ -22,7 +22,7 @@
 |Language|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-3F4F75?style=flat-square&logo=MySQL&logoColor=skyblue"/>|
 |Data Handling|<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>|
 |Data Vizualization|<img src="https://img.shields.io/badge/Matplotlib-black?style=flat"/> <img src="https://img.shields.io/badge/seaborn-black?style=flat"/>|
-|Statistics|<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>|
+|Statistics||
 |Machine Learning & Deep Learning|<img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>|
 |Web|<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> |
 |Data Reporting & Documentation|<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>|
@@ -32,10 +32,9 @@
 
 ### My Future Skills<br>
 
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>,
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">,
-  <img src="https://img.shields.io/badge/Google Analytics 4-black?style=flat&logo=googleanalytics&logoColor=#E37400"/>,
+  ,
   etc.
 <br>
 <br>
